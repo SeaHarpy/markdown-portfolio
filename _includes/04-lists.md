@@ -1,1 +1,6 @@
-Replace this with a list of your favorite things.
+## Things I like:
+* Video Games
+* Fishing
+  * Any kind of fishing
+* Learning
+* Apples
